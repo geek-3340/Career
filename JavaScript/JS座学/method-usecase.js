@@ -19,6 +19,6 @@ const omitPostTitle = (title) => {
 };
 omitPostTitle('Javascript基礎を学ぼう！初心者～中級者までこれさえ読めばOK！');
 
-// メソッドチェーン
+// メソッドチェーン:連鎖させる
 const fullName = ['Yamada', 'Taro'];
 console.log(fullName.join(' ').toUpperCase());
